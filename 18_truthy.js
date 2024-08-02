@@ -1,6 +1,6 @@
 const userEmail = "tanishq.ai"
 
-if(userEmail){
+if (userEmail) {
   console.log("got user email");
 } else {
   console.log("no user email");

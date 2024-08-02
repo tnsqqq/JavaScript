@@ -2,7 +2,7 @@
 
 // for (let index = 0; index < array.length; index++) {
 //   const element = array[index];
-  
+
 // }
 
 
@@ -46,7 +46,7 @@ for (let index = 0; index <= 10; index++) {
     // console.log(`Detected 5`);
     // break;
     continue;
-    }
+  }
 
   // console.log(`Value of i is ${index}`);
 }
@@ -217,6 +217,6 @@ const myCode = [
 ]
 
 
-myCode.forEach( (item) => {
+myCode.forEach((item) => {
   console.log(item.langName, item.name);
 })
